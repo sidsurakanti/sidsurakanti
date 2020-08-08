@@ -4,9 +4,9 @@ I'm a student, and a developer 😜! I've been learning Python for around 5 mont
 
 #### Social Media:
 
-<img align="left" alt="@wq_one | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/> [twitter]
+[<img align="left" alt="@wq_one | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
 
-<img align="left" alt="one#2914 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/> [discord]
+[<img align="left" alt="one#2914 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/>][discord]
 
 
 [twitter]: https://twitter.com/wq_one
