@@ -8,7 +8,6 @@ I'm a student, and a developer! I've been learning Python for around 5 months no
 
 ## Here are my github stats! 😜 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=izzy-q&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
 <br>
 
 ## What languagues do I use the most?
