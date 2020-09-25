@@ -10,5 +10,5 @@ I'm a student, and a developer! I've been learning Python for around 5 months no
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=izzy-q&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
-## What languagues do I use the most?
+## Languauge stats!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izzy-q&hide=html,css,powershell&theme=calm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
