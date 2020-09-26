@@ -6,7 +6,7 @@ I'm currently just playing around with **discord.py**, and learning **algebra**.
 
 ## Socials
 [<img align="left" alt="izzy#2859 | discord" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg">](https://discord.com/users/521872289231273994)
-[<img align="left" alt="wq_izzy | twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">](https://twitter.com/wq_izzy)
+[<img align="left" alt="izzywq | twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">](https://twitter.com/izzywq)
 <br>
 
 ## Github Stats
