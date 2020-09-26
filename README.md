@@ -2,7 +2,7 @@
 I'm a student, and a developer! I've been learning Python for around 6 months now, and I'm pretty decent at it (hopefully =p). I also know a bit of HTML and CSS. I'm thinking of learning Web Dev this december, so stay tuned for that.
 
 ## Status
-I'm currently just playing around with discord.py and learning algebra. 
+I'm currently just playing around with discord.py, and learning algebra. 
 
 ## Socials
 [<img align="left" alt="izzy#2859 | discord" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg">](https://discord.com/users/521872289231273994)
