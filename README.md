@@ -1,12 +1,12 @@
 # Hey there, I'm Izzy!
-I'm a student, and a developer! I've been learning Python for around 6 months now, and I'm pretty decent at it (hopefully =p). I also know a bit of HTML and CSS. I'm thinking of learning Web Dev this december, so stay tuned for that.
+I'm a student, and a developer! I've been learning Python for around 6 months now, and I'm pretty decent at it (hopefully =p). I also know a bit of HTML and CSS. I'm thinking of learning Web Dev this december, so stay tuned for that. 
 
 ## Status
 I'm currently just playing around with **discord.py**, and learning **algebra**. 
 
 ## Socials
-[<img align="left" alt="izzy#2859 | discord" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg">](https://discord.com/users/521872289231273994)
-[<img align="left" alt="izzywq | twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">](https://twitter.com/izzywq)
+[<img align="left" alt="izzy#2859 | discord" src="https://img.icons8.com/fluent/48/000000/discord-new-logo.png">](https://discord.com/users/521872289231273994)
+[<img align="left" alt="izzywq | twitter" src="https://img.icons8.com/fluent/48/000000/twitter.png">](https://twitter.com/izzywq)
 <br>
 
 ## Github Stats
