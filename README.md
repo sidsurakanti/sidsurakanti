@@ -8,7 +8,7 @@ I'm currently just playing around with **discord.py**, and learning **algebra**.
 [<img align="left" alt="izzy#2859 | discord" src="https://img.icons8.com/fluent/48/000000/discord-new-logo.png">](https://discord.com/users/521872289231273994)
 [<img align="left" alt="izzywq | twitter" src="https://img.icons8.com/fluent/48/000000/twitter.png">](https://twitter.com/izzywq)
 <br>
-
+<br>
 ## Github Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=izzy-q&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izzy-q&hide=powershell,css&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
