@@ -11,4 +11,4 @@ I'm currently just playing around with **discord.py**, and learning **algebra**.
 <br>
 ## Github Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=izzy-q&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izzy-q&hide=powershell,css&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izzy-q&hide=powershell&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
