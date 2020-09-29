@@ -5,7 +5,7 @@ I'm a student, and a developer! I've been learning Python for around 6 months no
 I'm currently just playing around with **discord.py**, and learning **algebra**. 
 
 ## Socials
-[<img align="left" alt="izzy#2859 | discord" src="https://img.icons8.com/plasticine/48/000000/discord-logo.png">](https://discord.com/users/521872289231273994)
+[<img align="left" alt="izzy#2859 | discord" src="https://img.icons8.com/clouds/60/000000/discord-logo.png"/>](https://discord.com/users/521872289231273994)
 [<img align="left" alt="izzywq | twitter" src="https://img.icons8.com/cotton/48/000000/twitter.png">](https://twitter.com/izzywq)
 <br>
 <br>
