@@ -1,5 +1,5 @@
 # Hey there, I'm Izzy!
-I'm a student, and a developer! I've been learning Python for around 6 months now, and I'm pretty decent at it (hopefully =p). I also know a bit of HTML and CSS. I'm thinking of learning Web Dev this december, so stay tuned for that. 
+I'm a student, and a developer! I've been learning Python for around 6 months now, and I'm pretty decent at it (hopefully =p). I also know a bit of web dev!
 
 ## Status
 I'm currently just playing around with **discord.py**, and learning **algebra**. 
