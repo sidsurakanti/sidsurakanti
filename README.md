@@ -9,8 +9,8 @@ I'm a student, and a developer! I've been learning Python for around 7 months no
 <br>
 
 ### Socials
-[<img align="left" alt="izzy#2859 | discord" src="https://img.icons8.com/clouds/48/000000/discord-logo.png"/>](https://discord.com/users/521872289231273994)
-[<img align="left" alt="izzywq | twitter" src="https://img.icons8.com/cotton/48/000000/twitter.png">](https://twitter.com/izzywq)
+[<img align="left" alt="izzy#2859 | discord" src="https://img.icons8.com/ios-filled/48/000000/discord-logo.png"/>](https://discord.com/users/521872289231273994)
+[<img align="left" alt="izzywq | twitter" src="https://img.icons8.com/48/000000/twitter.png">](https://twitter.com/izzywq)
 <br>
 <br>
 
