@@ -1,4 +1,4 @@
-# Hey there, I'm Izzy! 🎃
+# Sup, I'm Izzy! :wave:
 I'm a student, and a developer! I've been learning Python for around 7 months now, and I'm pretty decent at it (hopefully =p). I also know a bit of web dev!
 
 
