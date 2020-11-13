@@ -1,6 +1,5 @@
 # Sup, I'm Izzy! :wave:
-I'm a student, and a developer! I've been learning Python for around 7 months now, and I'm pretty decent at it (hopefully =p). I also know a bit of web dev!
-
+I'm a 13 y/o student and developer. I've started my programming journey around 7 months ago with Python! I've so started exploring the language of JavaScript recently. Have a look around my github, and see if you find something interesting! <3
 
 ### Languages
 <img align="left" alt="python" src="https://img.icons8.com/color/48/000000/python.png">
