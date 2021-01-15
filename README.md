@@ -14,5 +14,5 @@ I'm a 13 y/o student and developer. I've started my programming journey around 7
 <br>
 
 ### Github Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=izzy-q&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izzy-q&hide=powershell&theme=dark&layout=compact)]()
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wtfizzy&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wtfizzy&hide=powershell&theme=dark&layout=compact)]()
