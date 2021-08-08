@@ -1,4 +1,4 @@
-# Hi, I'm Tsuki! :wave:
+# Hi, I'm Sid! :wave:
 
 ### Languages
 <img align="left" alt="python" src="https://img.icons8.com/color/48/000000/python.png">
