@@ -8,7 +8,7 @@
 
 ### Socials
 [<img align="left" alt="tsuki#6666 | discord" src="https://img.icons8.com/ios-filled/48/000000/discord-logo.png"/>](https://discord.com/users/521872289231273994)
-[<img align="left" alt="tsukinomii | twitter" src="https://img.icons8.com/48/000000/twitter.png">](https://twitter.com/tsukinomii)
+[<img align="left" alt="tsukinomii | twitter" src="https://img.icons8.com/48/000000/twitter.png">](https://twitter.com/wahleebahl)
 <br>
 <br>
 
