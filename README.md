@@ -1,2 +1,1 @@
-no idea what im doing
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=sidsurakanti&theme=transparent)
