@@ -1,4 +1,4 @@
-```js
-const sid = 016
+```ts
+const sid: Number = 016
 ```              
   
