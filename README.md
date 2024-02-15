@@ -1,4 +1,4 @@
 ```ts
-const sid: Number = 016
+const sid: number = 016
 ```              
   
