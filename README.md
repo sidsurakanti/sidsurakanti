@@ -1,4 +1,2 @@
-```ts
-const sid: number = 017
-```              
+hi
   
