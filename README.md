@@ -1,4 +1,4 @@
-hi, 
+hi 👋, 
 
 i like building websites, machine learning, competitive programming, math, and writing clean code.
 
