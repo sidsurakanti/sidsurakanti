@@ -1,7 +1,7 @@
 hi 👋, 
 
-i find joy in solving problems, building websites, machine learning, competitive programming, weightlifting, listening to music, fashion, investing, math, and writing clean code.
+i like learning new things, solving problems, building cool stuff (+ reinventing the wheel), lifting, listening to music, and meeting new people.
 
-i use python, typescript, vim, tailwindcss, next.js, c++, react.js, pytorch, git, and docker.
+i use python, typescript, neovim, next.js, tailwindcss, c++, react.js, pytorch, git, postgres, and docker.
 
-you can find me on discord or on instagram `@sidsurakanti`
+u can reach me discord or on instagram `@sidsurakanti`
