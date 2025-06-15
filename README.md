@@ -1,7 +1,7 @@
-hi 👋, 
+## ![prof views](https://komarev.com/ghpvc/?username=sidsurakanti&label=Profile%20views&color=000000&style=flat)
 
-i like learning new things, solving problems, building cool stuff (+ reinventing the wheel), lifting, listening to music, and meeting new people.
+👋, tldr:
+  - i like learning new things, solving problems, building fun stuff (+ reinventing the wheel), lifting, listening to [music](https://www.last.fm/user/shweeb_), and meeting new people
+  - i use python, typescript, next.js, tailwind, c++, react, pytorch, git, postgres, docker, and nvim
 
-i use python, typescript, neovim, next.js, tailwindcss, c++, react.js, pytorch, git, postgres, and docker.
-
-u can reach me discord or on instagram `@sidsurakanti`
+u can reach me on [discord](https://discord.com/users/521872289231273994) || [linkedin](https://www.linkedin.com/in/sidsurakanti/)
