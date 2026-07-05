@@ -4,4 +4,4 @@
   - i like learning how things work, lifting, listening to [music](https://www.last.fm/user/shweeb_), and making new friends
   - i use python, typescript, rust, next.js, tailwind, cuda, c++, react, pytorch, git, docker, and nvim
 
-u can find me on [discord](https://discord.com/users/521872289231273994) || [linkedin](https://www.linkedin.com/in/sidsurakanti/) || [github](https://github.com/sidsurakanti) (recursion lol) 
+u can find me on [discord](https://discord.com/users/521872289231273994) || [linkedin](https://www.linkedin.com/in/sidsurakanti/) || [github](https://github.com/sidsurakanti)
